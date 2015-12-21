@@ -1,0 +1,3 @@
+name = Grayscale
+core = 7.x
+engine = phptemplate
